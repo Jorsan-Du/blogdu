@@ -15,7 +15,7 @@ info:
   # Site subtitle
   subtitle: 个人博客
   # Author name
-  author: Du_
+  author: Jorson_Du
   # Site URL
   url: https://blogdu.vercel.app
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -504,5 +504,4 @@ developer:
   # Whether to enable developer mode (only for developers who want to modify the theme source code, not for ordinary users)
   enable: false
 # DEVELOPER MODE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
-
 
