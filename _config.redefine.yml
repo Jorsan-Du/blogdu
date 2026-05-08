@@ -17,7 +17,7 @@ info:
   # Author name
   author: Du_
   # Site URL
-  url: https://Jorsan-Du.github.io/blogdu
+  url: https://blogdu.vercel.app
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -197,6 +197,7 @@ home_banner:
 
 # NAVIGATION BAR >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 # Docs: https://redefine-docs.ohevan.com/home/navbar
+#导航栏
 navbar:
   # Auto hide navbar
   auto_hide: false
